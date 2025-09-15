@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/_Unity Essentials/Scenes/2_KidsRoom_3D_Scene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
